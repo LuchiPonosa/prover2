@@ -1,0 +1,172 @@
+@keyframes walkanim {
+to              { background-position: 150% bottom; }}
+
+html            { transform: scale(0.9);}
+.he_styler      { display: none;}
+div.copyright a { color: #00e1ff !important; 
+                  font-size: 13px !important;}
+
+a:hover         { text-decoration: none;   
+                  text-shadow: 0 0 30px #fffae6;}
+
+div.menu_item_dropdown a { background-color:transparent !important; } 
+
+div.menu_dropdown        { background:  #002b2fa3 !important;
+                           border: 1px solid #00e7ff !important; 
+                           border-radius: 0px !important;
+                           margin-left: 0px !important;} 
+
+.top_header img          { opacity: 0;}
+.top_menu                { width: 400px;}
+.top_header              { position: static !important;}
+.top_header              { background: url(https://giffiles.alphacoders.com/358/35854.gif);
+                           background-size: cover;
+                           background-position: 5% 20%;
+                           background-color: #00e8ff6b;
+                           width: 525px;
+                           margin: auto;
+                           border: 1px solid #00e7ff !important;}
+
+button.btn.btn-primary   { margin-top: 90px;
+                           margin-left: -212px;
+                           margin-right: auto;}
+
+.button_down             { background: transparent;}
+.top_menu_link           { display: block;
+                           margin-left: auto;
+                           margin-right: auto;}
+
+body                     { background: url(https://static.wikia.nocookie.net/6e9c6428-c6f3-4f16-97a2-dbdd64a0203b) fixed -50% bottom no-repeat;
+                           animation: walkanim 35s infinite;    
+                           background-size: 350px auto !important;
+                           padding-top: 0px;
+                           margin-top: -35px; }
+.header                  { background: transparent !important; color: #fff !important;}
+.icon                    { display: none;}
+.he_styler_customize_btn { display: none;}
+
+td.profile_menu1 a, div.nolink
+                         { background: transparent !important;}
+                           table.profile_menu {border: none;}
+
+.profile_leftside        { display: block; 
+                           background: url(https://beon.vip/uploads_user/1000/968/740888cba51bc8f154653de3b6969764.jpg) transparent no-repeat ; 
+                           background-size:  700px auto !important;
+                           float: top; margin-left: auto;
+                           margin-right: auto; 
+                           height: 350px;
+                           width: 525px;
+                           overflow-x: hidden !important;
+                           margin-bottom: 30px !important;
+                           border: 1px solid #00e7ff !important;}
+
+.profile_rightside       { display: block;
+                           float: bottom;
+                           width: 600px;
+                           margin-left: auto;
+                           margin-right: auto;
+                           margin-top: -30px;}
+
+.profile_content         { display: block;  overflow: auto!important; 
+                           width: 525px !important;  
+                           height: 300px !important; 
+                           overflow: auto !important; 
+                           background-size:  600px auto !important;
+                           background: url(https://beon.vip/uploads_user/1000/968/91a0aacaee48ba2afcdb426e9b0e6eca.jpg) #00e8ff6b no-repeat ;
+                           border: 1px solid #00e7ff !important; }
+
+td.profile_tab_end       { display: none;}
+td.profile_tab2 a:hover  { transform: skew(-5deg);
+                           background-color: #000;  }
+
+.profile_tab:hover       { transform: skew(-10deg);
+                           background-color: #ffff7f;}
+td.profile_rightside     { padding-left: 40px !important;
+                           padding-top: 5px;
+                           vertical-align: top;}
+
+div, td, a               { border: none !important;}
+td.profile_tab2 a        { background: #56efff !important;}
+td.profile_tab a         { background-color: #bd0f6b !important;
+                           padding: 7px 10px 7px 11.4px !important;
+                           border-left: none;
+                           font-weight: bold;
+                           display: block;}
+.profile_photo img       { max-width: 300px;}
+
+
+::-webkit-scrollbar{
+                width: 15px;
+                position: fixed;
+                right: 8px;
+                }
+            ::-webkit-scrollbar-track {
+                box-shadow: 0;
+                border-radius: 0px;
+                background-color: #ff005759;
+                }
+            .post ::-webkit-scrollbar-track {
+                border-left: 0px solid #ff005759;
+                }
+            ::-webkit-scrollbar-thumb {
+                background: #ff005759;
+                border-radius: 0px;
+                }
+
+div.page_header:before     { content: ' ЖЫЖНУТЫЙ'; font-size: 28px; }
+.page_header               { background: url(https://giffiles.alphacoders.com/357/35726.gif) #dc3ef9;
+                             color: #ffffff !important;
+                             font-size: 0px;
+                             margin-left: auto;
+                             margin-right: auto;
+                             width: 525px;
+                             text-align: center;
+                             background-size: cover;
+                             border: 1px solid #00e7ff !important;}
+
+.btn-primary               { color: #fff;
+                             background-color: #56efff;
+                             border-color: #00e7ff;
+                             background: url(https://giffiles.alphacoders.com/356/35695.gif) no-repeat;
+                             background-size: cover;
+                             height: 100px;
+                             width: 525px;
+                             border-radius: 0px !important;
+                             background-position: 40% 20%;
+                             font-size: 0px;}
+
+.btn-primary:before        { content: 'Создать запись'; font-size: 20px;}
+a, div, td                 { color: #fff !important;}
+
+.browse_friends_result     { background: #ffd94e24 !important;}
+.profile                   { background: #ffd94e24 !important;}
+.btn-primary:hover         { box-shadow: inset 0 0 20px 2px #2ce7ff;}
+
+.comment_area              { color: #ffffff !important;
+                             background: #f1004c2e;
+                             border-radius: 0px;
+                             border: 1px solid #bd0c559e;}
+.profile_comment_body      { background: #ffd94e24 !important;}
+
+.top_header A[href$="./"]:after {
+    display: block;
+    color: #00e7ff;
+    content: 'BEON';
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: overline;}
+
+.button                     { background:  #bd0c559e !important; 
+                               border: 1px solid #b41a64; }
+.button:hover               { transform: skew(-5deg);
+                               background-color: #000;  }
+
+.profile_photo img          { content: url(https://avatarfiles.alphacoders.com/177/thumb-177765.png); 
+                              width: 200px;}
+
+
+#notify_total               { position: absolute;}
+.modal-content              { background: #2cb9b9 !important;
+                              border: 1px solid #0ff !important;
+                              border-radius: 0px;}
+.modal                      { background: transparent !important;}
